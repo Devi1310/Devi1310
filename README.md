@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Devi Jayavelu 
 
-<!--
-**Devi1310/Devi1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Engineer | Frankfurt, Germany 🇩🇪
 
-Here are some ideas to get you started:
+🔧 **Skills:** Docker · Kubernetes · Terraform · GCP · AWS · CI/CD · Prometheus · Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 **Certifications:**
+- GCP Associate Cloud Engineer
+- AWS Cloud Practitioner  
+- HashiCorp Terraform Associate
+
+🚀 **Featured Project:** [DevOps Portfolio](https://github.com/Devi1310/devops-portfolio-project)
+- End-to-end pipeline: Docker → GKE → Terraform → Cloud Build → Prometheus
+
+📫 **Contact:** devi.drisha13@gmail.com | [LinkedIn](https://linkedin.com/in/devi-jayavelu)
+
+🟢 **Available immediately** for DevOps roles in Germany
